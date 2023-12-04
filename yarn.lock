@@ -85,7 +85,7 @@
     unist-util-visit "^4.1.2"
     vfile "^5.3.7"
 
-"@astrojs/mdx@^1.1.4":
+"@astrojs/mdx@^1.1.5":
   version "1.1.5"
   resolved "https://registry.yarnpkg.com/@astrojs/mdx/-/mdx-1.1.5.tgz#91e4f9429082541fcd903827fcb0ecc76e285b54"
   integrity sha512-4bveyB1Lb1vWo2kdHJjQYoCytWlrIjAxHATHUTuYnBPmdPjsfy9wuCnb9rozwyyarDABx87CzG5gotBNYd+dVA==
@@ -1383,10 +1383,10 @@ astro-eslint-parser@^0.16.0:
     espree "^9.0.0"
     semver "^7.3.8"
 
-astro@^3.5.3:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/astro/-/astro-3.6.0.tgz#e2c7546e778ba78ffcc5c2f9a3490c1e24bcce93"
-  integrity sha512-mRDzWXsaSBaN+juvunO4Ukq8HQ1WqrULlcZfKzaKEZEXvxiWmMKN9tH0onQH0EaQ7+f4nNR4VN9kYTM26uMrXQ==
+astro@^3.6.4:
+  version "3.6.4"
+  resolved "https://registry.yarnpkg.com/astro/-/astro-3.6.4.tgz#9741fb45a449992333af5e39ec6925eb658875e1"
+  integrity sha512-YatUyWEQ9GUC79Wc2zbovy6D6bXPW9++Z6PYs4GDamEDspUSnnzL/INB7WJqgFI0xAFk9jcUr+MZYjkdWqXYTw==
   dependencies:
     "@astrojs/compiler" "^2.3.0"
     "@astrojs/internal-helpers" "0.2.1"
